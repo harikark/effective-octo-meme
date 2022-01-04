@@ -335,3 +335,13 @@ a:hover {
     margin-top: 50px;
   }
 }
+.float-container {
+    padding: 20px;
+    float: right
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
