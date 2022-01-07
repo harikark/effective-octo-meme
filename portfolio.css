@@ -335,6 +335,13 @@ a:hover {
     margin-top: 50px;
   }
 }
+
+.img-circle {
+
+  width: 125px
+  height:125px;
+}
+
 .float-container {
     padding: 20px;
     float: right
